@@ -1,0 +1,5 @@
+#define ENCODER_A_PINS { GP12 }
+#define ENCODER_B_PINS { GP13 }
+#define ENCODER_RESOLUTIONS { 4}
+#define ENCODER_DEFAULT_POS 0x3
+
