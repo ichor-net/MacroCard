@@ -3,11 +3,11 @@
 *Guide coming soon!*
 
 
-##Setup
-So far only software setup is available and no hardware guide has been written. Software setup guide is linked here: [Guide]()
+## Setup
+So far only software setup is available and no hardware guide has been written. Software setup guide is linked here: [Guide](https://github.com/ichor-net/MacroCard/blob/main/MacroCard%20User%20Guide.pdf)
 
 
-###QMK Default Information [ignore]
+### QMK Default Information [ignore]
 * Keyboard Maintainer: [ichor-net](https://github.com/ichor-net)
 * Hardware Supported: ~~*The PCBs, controllers supported*~~
 * Hardware Availability: ~~*Links to where you can find this hardware*~~
